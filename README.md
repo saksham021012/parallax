@@ -1,1 +1,1 @@
-# parallax.github.io
+# parallax
